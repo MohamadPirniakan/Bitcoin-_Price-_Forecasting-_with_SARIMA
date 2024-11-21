@@ -94,7 +94,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ```
 
-### Notes:
+Notes:
 1. The structure is clear, and key project details are easily accessible.
 2. You may need to adjust the paths or the script names based on your actual project structure and file names.
 3. Be sure to include a **LICENSE** file if you intend to distribute the project, and adjust the license section as needed.

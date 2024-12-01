@@ -17,7 +17,7 @@ This project applies the **SARIMA (Seasonal ARIMA)** model to forecast Bitcoin p
 To get started with the project, clone this repository to your local machine and install the necessary dependencies.
 
 ```bash
-https://github.com/MohamadPirniakan/Bitcoin-_Price-_Forecasting-_with_SARIMA.git
+https://github.com/MohamadPirniakan/Bitcoin_Price_Forecasting_with_SARIMA.git
 cd bitcoin-price-forecasting-sarima
 pip install -r requirements.txt
 ```
